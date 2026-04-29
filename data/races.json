@@ -1,0 +1,21 @@
+[
+  { "round": 1, "name": "Australian Grand Prix", "circuit": "Albert Park Circuit", "location": "Melbourne, Australia", "date": "March 17", "winner": "Kimi Räikkönen", "team": "Lotus F1", "laps": 58 },
+  { "round": 2, "name": "Malaysian Grand Prix", "circuit": "Sepang International Circuit", "location": "Kuala Lumpur, Malaysia", "date": "March 24", "winner": "Sebastian Vettel", "team": "Red Bull Racing", "laps": 56 },
+  { "round": 3, "name": "Chinese Grand Prix", "circuit": "Shanghai International Circuit", "location": "Shanghai, China", "date": "April 14", "winner": "Fernando Alonso", "team": "Ferrari", "laps": 56 },
+  { "round": 4, "name": "Bahrain Grand Prix", "circuit": "Bahrain International Circuit", "location": "Sakhir, Bahrain", "date": "April 21", "winner": "Sebastian Vettel", "team": "Red Bull Racing", "laps": 57 },
+  { "round": 5, "name": "Spanish Grand Prix", "circuit": "Circuit de Catalunya", "location": "Barcelona, Spain", "date": "May 12", "winner": "Fernando Alonso", "team": "Ferrari", "laps": 66 },
+  { "round": 6, "name": "Monaco Grand Prix", "circuit": "Circuit de Monaco", "location": "Monte Carlo, Monaco", "date": "May 26", "winner": "Nico Rosberg", "team": "Mercedes AMG", "laps": 78 },
+  { "round": 7, "name": "Canadian Grand Prix", "circuit": "Circuit Gilles Villeneuve", "location": "Montreal, Canada", "date": "June 9", "winner": "Sebastian Vettel", "team": "Red Bull Racing", "laps": 70 },
+  { "round": 8, "name": "British Grand Prix", "circuit": "Silverstone Circuit", "location": "Silverstone, UK", "date": "June 30", "winner": "Nico Rosberg", "team": "Mercedes AMG", "laps": 52 },
+  { "round": 9, "name": "German Grand Prix", "circuit": "Nürburgring", "location": "Nürburg, Germany", "date": "July 7", "winner": "Sebastian Vettel", "team": "Red Bull Racing", "laps": 60 },
+  { "round": 10, "name": "Hungarian Grand Prix", "circuit": "Hungaroring", "location": "Budapest, Hungary", "date": "July 28", "winner": "Lewis Hamilton", "team": "Mercedes AMG", "laps": 70 },
+  { "round": 11, "name": "Belgian Grand Prix", "circuit": "Circuit de Spa-Francorchamps", "location": "Spa, Belgium", "date": "August 25", "winner": "Sebastian Vettel", "team": "Red Bull Racing", "laps": 44 },
+  { "round": 12, "name": "Italian Grand Prix", "circuit": "Autodromo Nazionale Monza", "location": "Monza, Italy", "date": "September 8", "winner": "Sebastian Vettel", "team": "Red Bull Racing", "laps": 53 },
+  { "round": 13, "name": "Singapore Grand Prix", "circuit": "Marina Bay Street Circuit", "location": "Singapore", "date": "September 22", "winner": "Sebastian Vettel", "team": "Red Bull Racing", "laps": 61 },
+  { "round": 14, "name": "Korean Grand Prix", "circuit": "Korea International Circuit", "location": "Yeongam, South Korea", "date": "October 6", "winner": "Sebastian Vettel", "team": "Red Bull Racing", "laps": 55 },
+  { "round": 15, "name": "Japanese Grand Prix", "circuit": "Suzuka Circuit", "location": "Suzuka, Japan", "date": "October 13", "winner": "Sebastian Vettel", "team": "Red Bull Racing", "laps": 53 },
+  { "round": 16, "name": "Indian Grand Prix", "circuit": "Buddh International Circuit", "location": "Greater Noida, India", "date": "October 27", "winner": "Sebastian Vettel", "team": "Red Bull Racing", "laps": 60 },
+  { "round": 17, "name": "Abu Dhabi Grand Prix", "circuit": "Yas Marina Circuit", "location": "Abu Dhabi, UAE", "date": "November 3", "winner": "Sebastian Vettel", "team": "Red Bull Racing", "laps": 55 },
+  { "round": 18, "name": "United States Grand Prix", "circuit": "Circuit of the Americas", "location": "Austin, USA", "date": "November 17", "winner": "Sebastian Vettel", "team": "Red Bull Racing", "laps": 56 },
+  { "round": 19, "name": "Brazilian Grand Prix", "circuit": "Autodromo Jose Carlos Pace", "location": "São Paulo, Brazil", "date": "November 24", "winner": "Sebastian Vettel", "team": "Red Bull Racing", "laps": 71 }
+]

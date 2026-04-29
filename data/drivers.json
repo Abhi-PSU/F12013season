@@ -1,0 +1,17 @@
+[
+  { "number": 1, "name": "Sebastian Vettel", "team": "Red Bull Racing", "nationality": "GER", "points": 397, "wins": 13, "color": "#1d3557" },
+  { "number": 3, "name": "Fernando Alonso", "team": "Ferrari", "nationality": "ESP", "points": 242, "wins": 2, "color": "#c1121f" },
+  { "number": 2, "name": "Mark Webber", "team": "Red Bull Racing", "nationality": "AUS", "points": 199, "wins": 0, "color": "#1d3557" },
+  { "number": 10, "name": "Lewis Hamilton", "team": "Mercedes AMG", "nationality": "GBR", "points": 189, "wins": 1, "color": "#00b4d8" },
+  { "number": 7, "name": "Kimi Räikkönen", "team": "Lotus F1", "nationality": "FIN", "points": 183, "wins": 1, "color": "#2d6a4f" },
+  { "number": 9, "name": "Nico Rosberg", "team": "Mercedes AMG", "nationality": "GER", "points": 171, "wins": 0, "color": "#00b4d8" },
+  { "number": 8, "name": "Romain Grosjean", "team": "Lotus F1", "nationality": "FRA", "points": 132, "wins": 0, "color": "#2d6a4f" },
+  { "number": 4, "name": "Felipe Massa", "team": "Ferrari", "nationality": "BRA", "points": 112, "wins": 0, "color": "#c1121f" },
+  { "number": 11, "name": "Jenson Button", "team": "McLaren", "nationality": "GBR", "points": 73, "wins": 0, "color": "#e36414" },
+  { "number": 14, "name": "Sergio Pérez", "team": "McLaren", "nationality": "MEX", "points": 49, "wins": 0, "color": "#e36414" },
+  { "number": 15, "name": "Paul di Resta", "team": "Force India", "nationality": "GBR", "points": 48, "wins": 0, "color": "#f4a261" },
+  { "number": 99, "name": "Adrian Sutil", "team": "Force India", "nationality": "GER", "points": 47, "wins": 0, "color": "#f4a261" },
+  { "number": 27, "name": "Nico Hülkenberg", "team": "Sauber", "nationality": "GER", "points": 51, "wins": 0, "color": "#6c757d" },
+  { "number": 16, "name": "Valtteri Bottas", "team": "Williams", "nationality": "FIN", "points": 4, "wins": 0, "color": "#005f73" },
+  { "number": 17, "name": "Daniel Ricciardo", "team": "Toro Rosso", "nationality": "AUS", "points": 12, "wins": 0, "color": "#7b2d8b" }
+]
