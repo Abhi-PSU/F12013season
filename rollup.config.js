@@ -24,11 +24,16 @@ export default {
     }),
     copy({
       targets: [
-        {
-          src: 'assets/',
-          dest: `public/`,
-          flatten: false
-        },
+  {
+    src: 'assets/',
+    dest: `public/`,
+    flatten: false
+  },
+  {
+    src: 'data/',
+    dest: `public/`,
+    flatten: false
+  },
         {
           src: 'node_modules/@haxtheweb/rpg-character/lib/',
           dest: `public`,
